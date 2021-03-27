@@ -72,4 +72,4 @@ next_state = (&count) ? IDLE : pres_state;
 end
 endcase
 end
-endmodule
+endmodule 
